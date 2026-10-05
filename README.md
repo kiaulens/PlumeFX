@@ -7,9 +7,9 @@ jet right out of the nozzle, a dense column of billowing smoke that stays in the
 launch pad a ground cloud that shoots out of the flame trenches and towers up beside the rocket, as in real launches
 such as the Space Shuttle's.
 
-![Offline preview: four boosters at the pad and in flight](docs/preview.png)
+[![PlumeFX launch video on YouTube](https://img.youtube.com/vi/HdoL_J0q-_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=HdoL_J0q-_M)
 
-*Offline preview renderer (plain Unity scene, no KSP lighting). In game, Scatterer and TUFX add atmosphere and bloom.*
+*Click the image to watch a full launch on YouTube.*
 
 ## Features
 
@@ -105,6 +105,10 @@ parameters if you like. KSP locks the DLL while it is running, so close the game
 
 `Unity/` is a Unity 2019.4.18f1 project that simulates a launch with the real core and shader and renders stills and
 videos from several cameras, which is much faster than testing in game. See [Unity/README.md](Unity/README.md).
+
+![Offline preview: four boosters at the pad and in flight](docs/preview.png)
+
+*Offline preview renderer (plain Unity scene, no KSP lighting). In game, Scatterer and TUFX add atmosphere and bloom.*
 
 ## License
 
