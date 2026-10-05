@@ -7,7 +7,7 @@ jet right out of the nozzle, a dense column of billowing smoke that stays in the
 launch pad a ground cloud that shoots out of the flame trenches and towers up beside the rocket, as in real launches
 such as the Space Shuttle's.
 
-[![PlumeFX launch video on YouTube](https://img.youtube.com/vi/HdoL_J0q-_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=HdoL_J0q-_M)
+[![PlumeFX launch video on YouTube](docs/youtube.jpg)](https://www.youtube.com/watch?v=0EvG0IkRLH0)
 
 *Click the image to watch a full launch on YouTube.*
 
