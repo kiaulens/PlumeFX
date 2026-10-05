@@ -13,6 +13,21 @@ such as the Space Shuttle's.
 
 *Click the image to watch a full launch on YouTube.*
 
+## Installation
+
+1. Install [ModuleManager](https://github.com/sarbian/ModuleManager).
+2. Download `PlumeFX-x.y.z.zip` from the [releases](https://github.com/kiaulens/PlumeFX/releases).
+3. Copy the `GameData/PlumeFX` folder into the `GameData` folder of your KSP installation.
+
+## Scope and compatibility
+
+- KSP 1.12.x on **Windows (DirectX 11)**. The shader needs shader model 5.0, and the bundle is built for Windows.
+- By default only solid-fuel engines get PlumeFX smoke. On parts with a `SolidFuel` engine, a ModuleManager patch
+  (`Patches/BoosterFX.cfg`) removes all stock and ReStock particle effects (flame, smoke, sparks), because PlumeFX
+  draws both flame and smoke there. Sounds stay. Liquid engines keep their stock or Waterfall effects.
+- Tested with stock and ReStock boosters, Scatterer, EVE, TUFX, Deferred, Parallax and Waterfall.
+- If [ChuteFX](https://github.com/kiaulens/ChuteFX) is installed, both mods share the same wind.
+
 ## Features
 
 **Exhaust jet**
@@ -45,21 +60,6 @@ such as the Space Shuttle's.
   The flame glows on the smoke around it.
 - The smoke casts shadows on the ground and on vessels, and terrain and buildings hide it correctly.
 - Column, jets and ground cloud that overlap are drawn as one volume, so there are no sorting errors between them.
-
-## Scope and compatibility
-
-- KSP 1.12.x on **Windows (DirectX 11)**. The shader needs shader model 5.0, and the bundle is built for Windows.
-- By default only solid-fuel engines get PlumeFX smoke. On parts with a `SolidFuel` engine, a ModuleManager patch
-  (`Patches/BoosterFX.cfg`) removes all stock and ReStock particle effects (flame, smoke, sparks), because PlumeFX
-  draws both flame and smoke there. Sounds stay. Liquid engines keep their stock or Waterfall effects.
-- Tested with stock and ReStock boosters, Scatterer, EVE, TUFX, Deferred, Parallax and Waterfall.
-- If [ChuteFX](https://github.com/kiaulens/ChuteFX) is installed, both mods share the same wind.
-
-## Installation
-
-1. Install [ModuleManager](https://github.com/sarbian/ModuleManager).
-2. Download `PlumeFX-x.y.z.zip` from the [releases](https://github.com/kiaulens/PlumeFX/releases).
-3. Copy the `GameData/PlumeFX` folder into the `GameData` folder of your KSP installation.
 
 ## Settings
 
