@@ -1,0 +1,22 @@
+# build output (published as release downloads, not in the repository)
+GameData/PlumeFX/Plugins/*.dll
+*.zip
+# Unity project: generated folders and preview output
+Unity/Library/
+Unity/Temp/
+Unity/Obj/
+Unity/Logs/
+Unity/Build/
+Unity/Preview/
+Unity/UserSettings/
+Unity/*.csproj
+Unity/*.sln
+Unity/*.log
+*.log
+# editor/OS files
+.vs/
+.vscode/
+*.user
+Thumbs.db
+desktop.ini
+__pycache__/
