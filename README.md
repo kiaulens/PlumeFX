@@ -2,6 +2,8 @@
 
 Volumetric rocket smoke for Kerbal Space Program 1.12.
 
+![PlumeFX: launch with ground cloud from the flame trenches](docs/plumefx.gif)
+
 PlumeFX replaces the particle smoke of solid rocket boosters with ray-marched volumetric smoke: a glowing exhaust
 jet right out of the nozzle, a dense column of billowing smoke that stays in the sky for many minutes, and at the
 launch pad a ground cloud that shoots out of the flame trenches and towers up beside the rocket, as in real launches

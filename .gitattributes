@@ -3,3 +3,5 @@
 *.dll binary
 *.png binary
 *.shaders binary
+*.gif binary
+*.jpg binary
